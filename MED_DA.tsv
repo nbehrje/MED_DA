@@ -5492,176 +5492,235 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 5492	5492	5492	learnability:upward_monotone:left					Several of my friends showing up would be nice.	Several of my best friends showing up would be nice.						neutral
 5493	5493	5493	learnability:upward_monotone:left					Several of the mean werewolves didn’t give chase.	Several of the werewolves didn’t give chase.						entailment
 5494	5494	5494	learnability:upward_monotone:left					Several of the werewolves didn’t give chase.	Several of the mean werewolves didn’t give chase.						neutral
-5495	5495	5495													
-5496	5496	5496													
-5497	5497	5497													
-5498	5498	5498													
-5499	5499	5499													
-5500	5500	5500													
-5501	5501	5501													
-5502	5502	5502													
-5503	5503	5503													
-5504	5504	5504													
-5505	5505	5505													
-5506	5506	5506													
-5507	5507	5507													
-5508	5508	5508													
-5509	5509	5509													
-5510	5510	5510													
-5511	5511	5511													
-5512	5512	5512													
-5513	5513	5513													
-5514	5514	5514													
-5515	5515	5515													
-5516	5516	5516													
-5517	5517	5517													
-5518	5518	5518													
-5519	5519	5519													
-5520	5520	5520													
-5521	5521	5521													
-5522	5522	5522													
-5523	5523	5523													
-5524	5524	5524													
-5525	5525	5525													
-5526	5526	5526													
-5527	5527	5527													
-5528	5528	5528													
-5529	5529	5529													
-5530	5530	5530													
-5531	5531	5531													
-5532	5532	5532													
-5533	5533	5533													
-5534	5534	5534													
-5535	5535	5535													
-5536	5536	5536													
-5537	5537	5537													
-5538	5538	5538													
-5539	5539	5539													
-5540	5540	5540													
-5541	5541	5541													
-5542	5542	5542													
-5543	5543	5543													
-5544	5544	5544													
-5545	5545	5545													
-5546	5546	5546													
-5547	5547	5547													
-5548	5548	5548													
-5549	5549	5549													
-5550	5550	5550													
-5551	5551	5551													
-5552	5552	5552													
-5553	5553	5553													
-5554	5554	5554													
-5555	5555	5555													
-5556	5556	5556													
-5557	5557	5557													
-5558	5558	5558													
-5559	5559	5559													
-5560	5560	5560													
-5561	5561	5561													
-5562	5562	5562													
-5563	5563	5563													
-5564	5564	5564													
-5565	5565	5565													
-5566	5566	5566													
-5567	5567	5567													
-5568	5568	5568													
-5569	5569	5569													
-5570	5570	5570													
-5571	5571	5571													
-5572	5572	5572													
-5573	5573	5573													
-5574	5574	5574													
-5575	5575	5575													
-5576	5576	5576													
-5577	5577	5577													
-5578	5578	5578													
-5579	5579	5579													
-5580	5580	5580													
-5581	5581	5581													
-5582	5582	5582													
-5583	5583	5583													
-5584	5584	5584													
-5585	5585	5585													
-5586	5586	5586													
-5587	5587	5587													
-5588	5588	5588													
-5589	5589	5589													
-5590	5590	5590													
-5591	5591	5591													
-5592	5592	5592													
-5593	5593	5593													
-5594	5594	5594													
-5595	5595	5595													
-5596	5596	5596													
-5597	5597	5597													
-5598	5598	5598													
-5599	5599	5599													
-5600	5600	5600													
-5601	5601	5601													
-5602	5602	5602													
-5603	5603	5603													
-5604	5604	5604													
-5605	5605	5605													
-5606	5606	5606													
-5607	5607	5607													
-5608	5608	5608													
-5609	5609	5609													
-5610	5610	5610													
-5611	5611	5611													
-5612	5612	5612													
-5613	5613	5613													
-5614	5614	5614													
-5615	5615	5615													
-5616	5616	5616													
-5617	5617	5617													
-5618	5618	5618													
-5619	5619	5619													
-5620	5620	5620													
-5621	5621	5621													
-5622	5622	5622													
-5623	5623	5623													
-5624	5624	5624													
-5625	5625	5625													
-5626	5626	5626													
-5627	5627	5627													
-5628	5628	5628													
-5629	5629	5629													
-5630	5630	5630													
-5631	5631	5631													
-5632	5632	5632													
-5633	5633	5633													
-5634	5634	5634													
-5635	5635	5635													
-5636	5636	5636													
-5637	5637	5637													
-5638	5638	5638													
-5639	5639	5639													
-5640	5640	5640													
-5641	5641	5641													
-5642	5642	5642													
-5643	5643	5643													
-5644	5644	5644													
-5645	5645	5645													
-5646	5646	5646													
-5647	5647	5647													
-5648	5648	5648													
-5649	5649	5649													
-5650	5650	5650													
-5651	5651	5651													
-5652	5652	5652													
-5653	5653	5653													
-5654	5654	5654													
-5655	5655	5655													
-5656	5656	5656													
-5657	5657	5657													
-5658	5658	5658													
-5659	5659	5659													
-5660	5660	5660													
-5661	5661	5661													
-5662	5662	5662													
-5663	5663	5663													
-5664	5664	5664													
-5665	5665	5665													
-5666	5666	5666													
-5667	5667	5667													
+5495	5495	5495	learnability:upward_monotone:left					Several compelling reasons were provided at the meaning.	Several reasons were provided at the meeting.						entailment
+5496	5496	5496	learnability:upward_monotone:left					Several reasons were provided at the meeting.	Several compelling reasons were provided at the meaning.						neutral
+5497	5497	5497	learnability:upward_monotone:left					Several sophomores ran a race.	Several students ran a race.						entailment
+5498	5498	5498	learnability:upward_monotone:left					Several students ran a race.	Several sophomores ran a race.						neutral
+5499	5499	5499	learnability:upward_monotone:left					Several thick windows were left open.	Several windows were left open.						entailment
+5500	5500	5500	learnability:upward_monotone:left					Several windows were left open.	Several thick windows were left open.						neutral
+5501	5501	5501	learnability:upward_monotone:left					Several of my worst enemies were also at the party last night.	Several of my enemies were also at the party last night.						entailment
+5502	5502	5502	learnability:upward_monotone:left					Several of my enemies were also at the party last night.	Several of my worst enemies were also at the party last night.						neutral
+5503	5503	5503	learnability:upward_monotone:left					Several young guests were waiting in line.	Several guests were waiting in line.						entailment
+5504	5504	5504	learnability:upward_monotone:left					Several guests were waiting in line.	Several young guests were waiting in line.						neutral
+5505	5505	5505	learnability:upward_monotone:left					Several goals need to be met by the end of the month.	Several goals of mine need to be met by the end of the month.						entailment
+5506	5506	5506	learnability:upward_monotone:left					Several goals of mine need to be met by the end of the month.	Several goals need to be met by the end of the month.						neutral
+5507	5507	5507	learnability:upward_monotone:left					Several of her largest dogs gave chase.	Several of her dogs gave chase.						entailment
+5508	5508	5508	learnability:upward_monotone:left					Several of her dogs gave chase.	Several of her largest dogs gave chase.						neutral
+5509	5509	5509	learnability:upward_monotone:left					Several speeches that I gave were recorded for future reference.	Several speeches were recorded for future reference.						entailment
+5510	5510	5510	learnability:upward_monotone:left					Several speeches were recorded for future reference.	Several speeches that I gave were recorded for future reference.						neutral
+5511	5511	5511	learnability:upward_monotone:left					Several other customers were there before him.	Several other people were there before him.						entailment
+5512	5512	5512	learnability:upward_monotone:left					Several other people were there before him.	Several other customers were there before him.						neutral
+5513	5513	5513	learnability:upward_monotone:left					Several of Thomas’s classes were too easy.	Several classes were too easy.						entailment
+5514	5514	5514	learnability:upward_monotone:left					Several classes were too easy.	Several of Thomas’s classes were too easy.						neutral
+5515	5515	5515	learnability:upward_monotone:left					Several Canadian geese flew south for the winter.	Several animals flew south for the winter.						entailment
+5516	5516	5516	learnability:upward_monotone:left					Several animals flew south for the winter.	Several Canadian geese flew south for the winter.						neutral
+5517	5517	5517	learnability:upward_monotone:left					Several pens and pencils fell onto the floor.	Several pens fell onto the floor.						entailment
+5518	5518	5518	learnability:upward_monotone:left					Several pens fell onto the floor.	Several pens and pencils fell onto the floor.						neutral
+5519	5519	5519	learnability:upward_monotone:left					Several of the books that Jennifer needed were out of stock when I checked.	Several of the books that someone needed were out of stock when I checked.						entailment
+5520	5520	5520	learnability:upward_monotone:left					Several of the books that someone needed were out of stock when I checked.	Several of the books that Jennifer needed were out of stock when I checked.						neutral
+5521	5521	5521	learnability:upward_monotone:left					A few of the trains to the city are going to be delayed.	A few of the trains are going to be delayed.						entailment
+5522	5522	5522	learnability:upward_monotone:left					A few of the trains are going to be delayed.	A few of the trains to the city are going to be delayed.						neutral
+5523	5523	5523	learnability:upward_monotone:left					A few children were still there by the time I left.	A few people were still there by the time I left.						entailment
+5524	5524	5524	learnability:upward_monotone:left					A few people were still there by the time I left.	A few children were still there by the time I left.						neutral
+5525	5525	5525	learnability:upward_monotone:left					A few of the assignments that were handed in late were poorly done.	A few of the assignments were poorly done.						entailment
+5526	5526	5526	learnability:upward_monotone:left					A few of the assignments were poorly done.	A few of the assignments that were handed in late were poorly done.						neutral
+5527	5527	5527	learnability:upward_monotone:left					A few crops will be grown next season.	A few plants will be grown next season.						entailment
+5528	5528	5528	learnability:upward_monotone:left					A few plants will be grown next season.	A few crops will be grown next season.						neutral
+5529	5529	5529	learnability:upward_monotone:left					A few types of crops will be grown next season.	A few types of plants will be grown next season.						entailment
+5530	5530	5530	learnability:upward_monotone:left					A few types of plants will be grown next season.	A few types of crops will be grown next season.						neutral
+5531	5531	5531	learnability:upward_monotone:left					A few family members liked the park somewhat.	A few people liked the park somewhat.						entailment
+5532	5532	5532	learnability:upward_monotone:left					A few people liked the park somewhat.	A few family members liked the park somewhat.						neutral
+5533	5533	5533	learnability:upward_monotone:left					A few burgers were raw.	A few foods were raw.						entailment
+5534	5534	5534	learnability:upward_monotone:left					A few foods were raw.	A few burgers were raw.						neutral
+5535	5535	5535	learnability:upward_monotone:left					A few of the garage doors on Maple Street were unlocked.	A few doors were unlocked.						entailment
+5536	5536	5536	learnability:upward_monotone:left					A few doors were unlocked.	A few of the garage doors on Maple Street were unlocked.						neutral
+5537	5537	5537	learnability:upward_monotone:left					A few toys couldn’t fit in the box.	A few objects couldn’t fit in the box.						entailment
+5538	5538	5538	learnability:upward_monotone:left					A few objects couldn’t fit in the box.	A few toys couldn’t fit in the box.						neutral
+5539	5539	5539	learnability:upward_monotone:left					A few dark clouds let us know that it was going to rain.	A few clouds let us know that it was going to rain.						entailment
+5540	5540	5540	learnability:upward_monotone:left					A few clouds let us know that it was going to rain.	A few dark clouds let us know that it was going to rain.						neutral
+5541	5541	5541	learnability:upward_monotone:left					A few chairs from IKEA are all this room needs.	A few chairs are all this room needs.						entailment
+5542	5542	5542	learnability:upward_monotone:left					A few chairs are all this room needs.	A few chairs from IKEA are all this room needs.						neutral
+5543	5543	5543	learnability:upward_monotone:left					A few trips to the gym left me exhausted.	A few trips left me exhausted.						entailment
+5544	5544	5544	learnability:upward_monotone:left					A few trips left me exhausted.	A few trips to the gym left me exhausted.						neutral
+5545	5545	5545	learnability:upward_monotone:left					A few of my closest confidants are the only ones who know.	A few of my confidants are the only ones who know.						entailment
+5546	5546	5546	learnability:upward_monotone:left					A few of my confidants are the only ones who know.	A few of my closest confidants are the only ones who know.						neutral
+5547	5547	5547	learnability:upward_monotone:left					A few of the smaller tracks were certainly from a raccoon.	A few of the tracks were certainly from a raccoon.						entailment
+5548	5548	5548	learnability:upward_monotone:left					A few of the tracks were certainly from a raccoon.	A few of the smaller tracks were certainly from a raccoon.						neutral
+5549	5549	5549	learnability:upward_monotone:left					A few of the freshmen weren’t even ready for an exam this hard.	A few of the people weren’t even ready for an exam this hard.						entailment
+5550	5550	5550	learnability:upward_monotone:left					A few of the people weren’t even ready for an exam this hard.	A few of the freshmen weren’t even ready for an exam this hard.						neutral
+5551	5551	5551	learnability:upward_monotone:left					A few American models are expected to be obsolete by 2030.	A few models are expected to be obsolete by 2030.						entailment
+5552	5552	5552	learnability:upward_monotone:left					A few models are expected to be obsolete by 2030.	A few American models are expected to be obsolete by 2030.						neutral
+5553	5553	5553	learnability:upward_monotone:left					A few strips of tape and some nails are keeping this thing together.	A few strips of tape are keeping this thing together.						entailment
+5554	5554	5554	learnability:upward_monotone:left					A few strips of tape are keeping this thing together.	A few strips of tape and some nails are keeping this thing together.						neutral
+5555	5555	5555	learnability:upward_monotone:left					A few cats couldn’t be seen since it was so dark.	A few mammals couldn’t be seen since it was so dark.						entailment
+5556	5556	5556	learnability:upward_monotone:left					A few mammals couldn’t be seen since it was so dark.	A few cats couldn’t be seen since it was so dark.						neutral
+5557	5557	5557	learnability:upward_monotone:left					A few women could neither move forward nor backward because it was so crowded.	A few humans could neither move forward nor backward because it was so crowded.						entailment
+5558	5558	5558	learnability:upward_monotone:left					A few humans could neither move forward nor backward because it was so crowded.	A few women could neither move forward nor backward because it was so crowded.						neutral
+5559	5559	5559	learnability:upward_monotone:left					A few dim stars are aligning later this month.	A few stars are aligning later this month.						entailment
+5560	5560	5560	learnability:upward_monotone:left					A few stars are aligning later this month.	A few dim stars are aligning later this month.						neutral
+5561	5561	5561	learnability:upward_monotone:left					A few representatives of the teachers’ union spoke to the press.	A few representatives spoke to the press.						entailment
+5562	5562	5562	learnability:upward_monotone:left					A few representatives spoke to the press.	A few representatives of the teachers’ union spoke to the press.						neutral
+5563	5563	5563	learnability:upward_monotone:left					A few trinkets were left on the table.	A few objects were left on the table.						entailment
+5564	5564	5564	learnability:upward_monotone:left					A few objects were left on the table.	A few trinkets were left on the table.						neutral
+5565	5565	5565	learnability:upward_monotone:left					A few bad dreams kept me up all weekend.	A few dreams kept me up all weekend.						entailment
+5566	5566	5566	learnability:upward_monotone:left					A few dreams kept me up all weekend.	A few bad dreams kept me up all weekend.						neutral
+5567	5567	5567	learnability:upward_monotone:left					A few of the milder symptoms showed up immediately.	A few of the symptoms showed up immediately.						entailment
+5568	5568	5568	learnability:upward_monotone:left					A few of the symptoms showed up immediately.	A few of the milder symptoms showed up immediately.						neutral
+5569	5569	5569	learnability:upward_monotone:left					A few of Jane’s proposals were good enough to implement.	A few proposals were good enough to implement.						entailment
+5570	5570	5570	learnability:upward_monotone:left					A few proposals were good enough to implement.	A few of Jane’s proposals were good enough to implement.						neutral
+5571	5571	5571	learnability:upward_monotone:left					Several movies I really wanted to see were no longer available.	Several movies were no longer available.						entailment
+5572	5572	5572	learnability:upward_monotone:left					Several movies were no longer available.	Several movies I really wanted to see were no longer available.						neutral
+5573	5573	5573	learnability:upward_monotone:left					Several foods that my sister and I like are going to be served.	Several foods that some people like are going to be served.						entailment
+5574	5574	5574	learnability:upward_monotone:left					Several foods that some people like are going to be served.	Several foods that my sister and I like are going to be served.						neutral
+5575	5575	5575	learnability:upward_monotone:left					Many pens on my desk don’t even have any more ink.	Many pens on a desk don’t even have any more ink.						entailment
+5576	5576	5576	learnability:upward_monotone:left					Many pens on a desk don’t even have any more ink.	Many pens on my desk don’t even have any more ink.						neutral
+5577	5577	5577	learnability:upward_monotone:left					Many dogs I saw at the park were at least three feet tall.	Many dogs I saw were at least three feet tall.						entailment
+5578	5578	5578	learnability:upward_monotone:left					Many dogs I saw were at least three feet tall.	Many dogs I saw at the park were at least three feet tall.						neutral
+5579	5579	5579	learnability:upward_monotone:left					I want to read many of these physics books by the end of the year.	I want to read many physics books by the end of the year.						entailment
+5580	5580	5580	learnability:upward_monotone:left					I want to read many physics books by the end of the year.	I want to read many of these physics books by the end of the year.						neutral
+5581	5581	5581	learnability:downward_monotone:left					Every animal I’ve ever owned has loved this brand.	Every dog I’ve ever owned has loved this brand.						entailment
+5582	5582	5582	learnability:downward_monotone:left					Every dog I’ve ever owned has loved this brand.	Every animal I’ve ever owned has loved this brand.						neutral
+5583	5583	5583	learnability:downward_monotone:left					Every person that I invited to next week’s party was too busy to come.	Every man that I invited to next week’s party was too busy to come.						entailment
+5584	5584	5584	learnability:downward_monotone:left					Every man that I invited to next week’s party was too busy to come.	Every person that I invited to next week’s party was too busy to come.						neutral
+5585	5585	5585	learnability:downward_monotone:left					Every piece of furniture at the store was too expensive.	Every sofa at the store was too expensive.						entailment
+5586	5586	5586	learnability:downward_monotone:left					Every sofa at the store was too expensive.	Every piece of furniture at the store was too expensive.						neutral
+5587	5587	5587	learnability:downward_monotone:left					Every proposal was shot down.	Every proposal that Steven offered was shot down.						entailment
+5588	5588	5588	learnability:downward_monotone:left					Every proposal that Steven offered was shot down.	Every proposal was shot down.						neutral
+5589	5589	5589	learnability:downward_monotone:left					Each house’s doors need to be locked at night.	Each blue house’s doors need to be locked at night.						entailment
+5590	5590	5590	learnability:downward_monotone:left					Each blue house’s doors need to be locked at night.	Each house’s doors need to be locked at night.						neutral
+5591	5591	5591	learnability:downward_monotone:left					Each worker is planning on striking starting next week.	Each young worker is planning on striking starting next week.						entailment
+5592	5592	5592	learnability:downward_monotone:left					Each young worker is planning on striking starting next week.	Each worker is planning on striking starting next week.						neutral
+5593	5593	5593	learnability:downward_monotone:left					Each student failed the test last Tuesday.	Each sophomore failed the test last Tuesday.						entailment
+5594	5594	5594	learnability:downward_monotone:left					Each sophomore failed the test last Tuesday.	Each student failed the test last Tuesday.						neutral
+5595	5595	5595	learnability:downward_monotone:left					Each employee is going to get a raise as long as the company has good earnings.	Each manager is going to get a raise as long as the company has good earnings.						entailment
+5596	5596	5596	learnability:downward_monotone:left					Each manager is going to get a raise as long as the company has good earnings.	Each employee is going to get a raise as long as the company has good earnings.						neutral
+5597	5597	5597	learnability:downward_monotone:left					All the books that I wanted to read are at another library.	All the encyclopedias that I wanted to read are at another library.						entailment
+5598	5598	5598	learnability:downward_monotone:left					All the encyclopedias that I wanted to read are at another library.	All the books that I wanted to read are at another library.						neutral
+5599	5599	5599	learnability:downward_monotone:left					All the model vehicles he painted were painted red.	All the model hot air balloons he painted were painted red.						entailment
+5600	5600	5600	learnability:downward_monotone:left					All the model hot air balloons he painted were painted red.	All the model vehicles he painted were painted red.						neutral
+5601	5601	5601	learnability:downward_monotone:left					All elephants at the circus looked depressed.	All tall elephants at the circus looked depressed.						entailment
+5602	5602	5602	learnability:downward_monotone:left					All tall elephants at the circus looked depressed.	All elephants at the circus looked depressed.						neutral
+5603	5603	5603	learnability:downward_monotone:left					All the maps I found were upside-down.	All the maps of Belize I found were upside-down.						entailment
+5604	5604	5604	learnability:downward_monotone:left					All the maps of Belize I found were upside-down.	All the maps I found were upside-down.						neutral
+5605	5605	5605	learnability:downward_monotone:left					Any toy she bought would be too big to fit in the box.	Any toy made of plastic she bought would be too big to fit in the box.						entailment
+5606	5606	5606	learnability:downward_monotone:left					Any toy made of plastic she bought would be too big to fit in the box.	Any toy she bought would be too big to fit in the box.						neutral
+5607	5607	5607	learnability:downward_monotone:left					Any day next month is going to be spent conducting research.	Any Monday next month is going to be spent conducting research.						entailment
+5608	5608	5608	learnability:downward_monotone:left					Any Monday next month is going to be spent conducting research.	Any day next month is going to be spent conducting research.						neutral
+5609	5609	5609	learnability:downward_monotone:left					Any article of clothing I wear will be soaking wet.	Any coat I wear will be soaking wet.						entailment
+5610	5610	5610	learnability:downward_monotone:left					Any coat I wear will be soaking wet.	Any article of clothing I wear will be soaking wet.						neutral
+5611	5611	5611	learnability:downward_monotone:left					Any person who went enjoyed it.	Any surfer who went enjoyed it.						entailment
+5612	5612	5612	learnability:downward_monotone:left					Any surfer who went enjoyed it.	Any person who went enjoyed it.						neutral
+5613	5613	5613	learnability:downward_monotone:left					No instrument he tried was out of tune.	No viola he tried was out of tune.						entailment
+5614	5614	5614	learnability:downward_monotone:left					No viola he tried was out of tune.	No instrument he tried was out of tune.						neutral
+5615	5615	5615	learnability:downward_monotone:left					No sample that we took from the person outside was disgusting.	No sample of salsa that we took from the person outside was disgusting.						entailment
+5616	5616	5616	learnability:downward_monotone:left					No sample of salsa that we took from the person outside was disgusting.	No sample that we took from the person outside was disgusting.						neutral
+5617	5617	5617	learnability:downward_monotone:left					No puppy owned by a tall person is going to grow up to be tall.	No puppy owned by a tall accountant is going to grow up to be tall.						entailment
+5618	5618	5618	learnability:downward_monotone:left					No puppy owned by a tall accountant is going to grow up to be tall.	No puppy owned by a tall person is going to grow up to be tall.						neutral
+5619	5619	5619	learnability:downward_monotone:left					No friend of mine is going to be at the wedding.	No unmarried friend of mine is going to be at the wedding.						entailment
+5620	5620	5620	learnability:downward_monotone:left					No unmarried friend of mine is going to be at the wedding.	No friend of mine is going to be at the wedding.						neutral
+5621	5621	5621	learnability:downward_monotone:left					Few garbage cans along the path were covered in bees.	Few garbage cans that were at least half full along the path were covered in bees.						entailment
+5622	5622	5622	learnability:downward_monotone:left					Few garbage cans that were at least half full along the path were covered in bees.	Few garbage cans along the path were covered in bees.						neutral
+5623	5623	5623	learnability:downward_monotone:left					Few flights were anticipated to be canceled due to bad weather.	Few flights to Milan were anticipated to be canceled due to bad weather.						entailment
+5624	5624	5624	learnability:downward_monotone:left					Few flights to Milan were anticipated to be canceled due to bad weather.	Few flights were anticipated to be canceled due to bad weather.						neutral
+5625	5625	5625	learnability:downward_monotone:left					Few tables had more than one person sitting at them.	Few square tables had more than one person sitting at them.						entailment
+5626	5626	5626	learnability:downward_monotone:left					Few square tables had more than one person sitting at them.	Few tables had more than one person sitting at them.						neutral
+5627	5627	5627	learnability:downward_monotone:left					Few kittens and puppies had at least one toy to play with.	Few kittens had at least one toy to play with.						entailment
+5628	5628	5628	learnability:downward_monotone:left					Few kittens had at least one toy to play with.	Few kittens and puppies had at least one toy to play with.						neutral
+5629	5629	5629	learnability:downward_monotone:left					Few concerts took more than a few seconds to be sold out.	Few Taylor Swift concerts took more than a few seconds to be sold out.						entailment
+5630	5630	5630	learnability:downward_monotone:left					Few Taylor Swift concerts took more than a few seconds to be sold out.	Few concerts took more than a few seconds to be sold out.						neutral
+5631	5631	5631	learnability:downward_monotone:left					Few assignments were returned without a grade.	Few assignments we submitted were returned without a grade.						entailment
+5632	5632	5632	learnability:downward_monotone:left					Few assignments we submitted were returned without a grade.	Few assignments were returned without a grade.						neutral
+5633	5633	5633	learnability:downward_monotone:left					Few drivers were going too fast to see the hazards.	Few drivers under 30 years old were going too fast to see the hazards.						entailment
+5634	5634	5634	learnability:downward_monotone:left					Few drivers under 30 years old were going too fast to see the hazards.	Few drivers were going too fast to see the hazards.						neutral
+5635	5635	5635	learnability:downward_monotone:left					Few teenagers wanted the new phone for Christmas.	Few 14-year-old teenagers wanted the new phone for Christmas.						entailment
+5636	5636	5636	learnability:downward_monotone:left					Few 14-year-old teenagers wanted the new phone for Christmas.	Few teenagers wanted the new phone for Christmas.						neutral
+5637	5637	5637	learnability:downward_monotone:left					At most 12 people who saw the play thought it was funny.	At most 12 red-haired toddlers who saw the play thought it was funny.						entailment
+5638	5638	5638	learnability:downward_monotone:left					At most 12 red-haired toddlers who saw the play thought it was funny.	At most 12 people who saw the play thought it was funny.						neutral
+5639	5639	5639	learnability:downward_monotone:left					At most 412 species of birds have beaks for cracking nuts.	At most 412 species of finches have beaks for cracking nuts.						entailment
+5640	5640	5640	learnability:downward_monotone:left					At most 412 species of finches have beaks for cracking nuts.	At most 412 species of birds have beaks for cracking nuts.						neutral
+5641	5641	5641	learnability:downward_monotone:left					At most one person has an opinion worth sharing.	At most one smart person has an opinion worth sharing.						entailment
+5642	5642	5642	learnability:downward_monotone:left					At most one smart person has an opinion worth sharing.	At most one person has an opinion worth sharing.						neutral
+5643	5643	5643	learnability:downward_monotone:left					At most 3 decisions can help us in the future.	At most 3 financial decisions can help us in the future.						entailment
+5644	5644	5644	learnability:downward_monotone:left					At most 3 financial decisions can help us in the future.	At most 3 decisions can help us in the future.						neutral
+5645	5645	5645	learnability:downward_monotone:left					Fewer than 3 of Stephanie’s pets are going to wear a hat.	Fewer than 3 of Stephanie’s pugs are going to wear a hat.						entailment
+5646	5646	5646	learnability:downward_monotone:left					Fewer than 3 of Stephanie’s pugs are going to wear a hat.	Fewer than 3 of Stephanie’s pets are going to wear a hat.						neutral
+5647	5647	5647	learnability:downward_monotone:left					Fewer than 5 of his books are going to be read at least three times.	Fewer than 5 of his psychology textbooks are going to be read at least three times.						entailment
+5648	5648	5648	learnability:downward_monotone:left					Fewer than 5 of his psychology textbooks are going to be read at least three times.	Fewer than 5 of his books are going to be read at least three times.						neutral
+5649	5649	5649	learnability:downward_monotone:left					Fewer than 1 of the cities we toured were inhospitable.	Fewer than 1 of the cities in central Europe we toured were inhospitable.						entailment
+5650	5650	5650	learnability:downward_monotone:left					Fewer than 1 of the cities in central Europe we toured were inhospitable.	Fewer than 1 of the cities we toured were inhospitable.						neutral
+5651	5651	5651	learnability:downward_monotone:left					Fewer than 5 things are able to fit in these two bags.	Fewer than 5 books I bought are able to fit in these two bags.						entailment
+5652	5652	5652	learnability:downward_monotone:left					Fewer than 5 books I bought are able to fit in these two bags.	Fewer than 5 things are able to fit in these two bags.						neutral
+5653	5653	5653	learnability:downward_monotone:left					Every baby needs to sleep well tonight.	Every baby boy needs to sleep well tonight.						entailment
+5654	5654	5654	learnability:downward_monotone:left					Every baby boy needs to sleep well tonight.	Every baby needs to sleep well tonight.						neutral
+5655	5655	5655	learnability:downward_monotone:left					Every card I drew led me closer to winning.	Every red card I drew led me closer to winning.						entailment
+5656	5656	5656	learnability:downward_monotone:left					Every red card I drew led me closer to winning.	Every card I drew led me closer to winning.						neutral
+5657	5657	5657	learnability:downward_monotone:left					Every song on this station made my headache worse.	Every loud song on this station made my headache worse.						entailment
+5658	5658	5658	learnability:downward_monotone:left					Every loud song on this station made my headache worse.	Every song on this station made my headache worse.						neutral
+5659	5659	5659	learnability:downward_monotone:left					Every trip was a learning experience.	Every trip to Peru was a learning experience.						entailment
+5660	5660	5660	learnability:downward_monotone:left					Every trip to Peru was a learning experience.	Every trip was a learning experience.						neutral
+5661	5661	5661	learnability:downward_monotone:left					Each winner was contacted within three days.	Each winner who was selected was contacted within three days.						entailment
+5662	5662	5662	learnability:downward_monotone:left					Each winner who was selected was contacted within three days.	Each winner was contacted within three days.						neutral
+5663	5663	5663	learnability:downward_monotone:left					Each of the batteries is going to run out quickly if she uses it that much.	Each of the AA batteries is going to run out quickly if she uses it that much.						entailment
+5664	5664	5664	learnability:downward_monotone:left					Each of the AA batteries is going to run out quickly if she uses it that much.	Each of the batteries is going to run out quickly if she uses it that much.						neutral
+5665	5665	5665	learnability:downward_monotone:left					Each wire was tangled when pulled out of the box.	Each black wire was tangled when pulled out of the box.						entailment
+5666	5666	5666	learnability:downward_monotone:left					Each black wire was tangled when pulled out of the box.	Each wire was tangled when pulled out of the box.						neutral
+5667	5667	5667	learnability:downward_monotone:left					Each Germanic language had a person studying it.	Each West Germanic language had a person studying it.						entailment
+5668	5668	5668	learnability:downward_monotone:left					Each West Germanic language had a person studying it.	Each Germanic language had a person studying it.						neutral
+5669	5669	5669	learnability:downward_monotone:left					All of the files can be downloaded in under an hour.	All of the large video files can be downloaded in under an hour.						entailment
+5670	5670	5670	learnability:downward_monotone:left					All of the large video files can be downloaded in under an hour.	All of the files can be downloaded in under an hour.						neutral
+5671	5671	5671	learnability:downward_monotone:left					All lights need to be turned off by 10.	All bright lights need to be turned off by 10.						entailment
+5672	5672	5672	learnability:downward_monotone:left					All bright lights need to be turned off by 10.	All lights need to be turned off by 10.						neutral
+5673	5673	5673	learnability:downward_monotone:left					All bottles are going to be recycled eventually.	All glass soda bottles are going to be recycled eventually.						entailment
+5674	5674	5674	learnability:downward_monotone:left					All glass soda bottles are going to be recycled eventually.	All bottles are going to be recycled eventually.						neutral
+5675	5675	5675	learnability:downward_monotone:left					All sheets of paper need to be folded into planes and thrown out the window.	All sheets of construction paper need to be folded into planes and thrown out the window.						entailment
+5676	5676	5676	learnability:downward_monotone:left					All sheets of construction paper need to be folded into planes and thrown out the window.	All sheets of paper need to be folded into planes and thrown out the window.						neutral
+5677	5677	5677	learnability:downward_monotone:left					Any bucket left outside is going to be filled with rain.	Any wooden bucket left outside is going to be filled with rain.						entailment
+5678	5678	5678	learnability:downward_monotone:left					Any wooden bucket left outside is going to be filled with rain.	Any bucket left outside is going to be filled with rain.						neutral
+5679	5679	5679	learnability:downward_monotone:left					Any excuse she can come up with will work.	Any good excuse she can come up with will work.						entailment
+5680	5680	5680	learnability:downward_monotone:left					Any good excuse she can come up with will work.	Any excuse she can come up with will work.						neutral
+5681	5681	5681	learnability:downward_monotone:left					Any cartographer can tell you that’s not what it should look like.	Any experienced cartographer can tell you that’s not what it should look like.						entailment
+5682	5682	5682	learnability:downward_monotone:left					Any experienced cartographer can tell you that’s not what it should look like.	Any cartographer can tell you that’s not what it should look like.						neutral
+5683	5683	5683	learnability:downward_monotone:left					Any human that enters this area will be in danger.	Any child that enters this area will be in danger.						entailment
+5684	5684	5684	learnability:downward_monotone:left					Any child that enters this area will be in danger.	Any human that enters this area will be in danger.						neutral
+5685	5685	5685	learnability:downward_monotone:left					No pet dog is going to make a mess in this room.	No pet dog that has been adequately trained is going to make a mess in this room.						entailment
+5686	5686	5686	learnability:downward_monotone:left					No pet dog that has been adequately trained is going to make a mess in this room.	No pet dog is going to make a mess in this room.						neutral
+5687	5687	5687	learnability:downward_monotone:left					No candidate will admit to supporting that position.	No candidate who is careful will admit to supporting that position.						entailment
+5688	5688	5688	learnability:downward_monotone:left					No candidate who is careful will admit to supporting that position.	No candidate will admit to supporting that position.						neutral
+5689	5689	5689	learnability:downward_monotone:left					No person has ever been this deep before.	No spelunker has ever been this deep before.						entailment
+5690	5690	5690	learnability:downward_monotone:left					No spelunker has ever been this deep before.	No person has ever been this deep before.						neutral
+5691	5691	5691	learnability:downward_monotone:left					No student passed that professor’s test the first time.	No student who studied for less than ten hours passed that professor’s test the first time.						entailment
+5692	5692	5692	learnability:downward_monotone:left					No student who studied for less than ten hours passed that professor’s test the first time.	No student passed that professor’s test the first time.						neutral
+5693	5693	5693	learnability:downward_monotone:left					Few drivers on the road right now will make it home before the storm arrives.	Few drivers in old cars on the road right now will make it home before the storm arrives.						entailment
+5694	5694	5694	learnability:downward_monotone:left					Few drivers in old cars on the road right now will make it home before the storm arrives.	Few drivers on the road right now will make it home before the storm arrives.						neutral
+5695	5695	5695	learnability:downward_monotone:left					Few children like this kind of music nowadays.	Few young children like this kind of music nowadays.						entailment
+5696	5696	5696	learnability:downward_monotone:left					Few young children like this kind of music nowadays.	Few children like this kind of music nowadays.						neutral
+5697	5697	5697	learnability:downward_monotone:left					Few modern models are still made with plastic.	Few modern models made in Europe are still made with plastic.						entailment
+5698	5698	5698	learnability:downward_monotone:left					Few modern models made in Europe are still made with plastic.	Few modern models are still made with plastic.						neutral
+5699	5699	5699	learnability:downward_monotone:left					Few of the professor’s answers were of any help.	Few of the professor’s answers in the email were of any help.						entailment
+5700	5700	5700	learnability:downward_monotone:left					Few of the professor’s answers in the email were of any help.	Few of the professor’s answers were of any help.						neutral
+5701	5701	5701	learnability:downward_monotone:left					Less than ten percent of people get the recommended amount daily.	Fewer than ten percent of adults get the recommended amount daily.						entailment
+5702	5702	5702	learnability:downward_monotone:left					Less than ten percent of adults get the recommended amount daily.	Fewer than ten percent of people get the recommended amount daily.						neutral
+5703	5703	5703	learnability:downward_monotone:left					Fewer than 7 fish are left in the tank.	Fewer than 7 clownfish are left in the tank.						entailment
+5704	5704	5704	learnability:downward_monotone:left					Fewer than 7 clownfish are left in the tank.	Fewer than 7 fish are left in the tank.						neutral
+5705	5705	5705	learnability:downward_monotone:left					Fewer than half of the items I wanted to be on sale were actually on sale.	Fewer than half of the hats I wanted to be on sale were actually on sale.						entailment
+5706	5706	5706	learnability:downward_monotone:left					Fewer than half of the hats I wanted to be on sale were actually on sale.	Fewer than half of the items I wanted to be on sale were actually on sale.						neutral
+5707	5707	5707	learnability:downward_monotone:left					Fewer than 20 people knew how to complete the project.	Fewer than 20 researchers knew how to complete the project.						entailment
+5708	5708	5708	learnability:downward_monotone:left					Fewer than 20 researchers knew how to complete the project.	Fewer than 20 people knew how to complete the project.						neutral
+5709	5709	5709	learnability:downward_monotone:left					Every computer in the building should be able to run the program.	Every new computer in the building should be able to run the program.						entailment
+5710	5710	5710	learnability:downward_monotone:left					Every new computer in the building should be able to run the program.	Every computer in the building should be able to run the program.						neutral
+5711	5711	5711	learnability:downward_monotone:left					Every printer needs to be able to print in color.	Every laser printer needs to be able to print in color.						entailment
+5712	5712	5712	learnability:downward_monotone:left					Every laser printer needs to be able to print in color.	Every printer needs to be able to print in color.						neutral
+5713	5713	5713	learnability:downward_monotone:left					Every pair of glasses had frames that looked like that.	Every pair of glasses on the shelf had frames that looked like that.						entailment
+5714	5714	5714	learnability:downward_monotone:left					Every pair of glasses on the shelf had frames that looked like that.	Every pair of glasses had frames that looked like that.						neutral
+5715	5715	5715	learnability:downward_monotone:left					Every car that runs over it is going to get a flat tire.	Every sedan that runs over it is going to get a flat tire.						entailment
+5716	5716	5716	learnability:downward_monotone:left					Every sedan that runs over it is going to get a flat tire.	Every car that runs over it is going to get a flat tire.						neutral
+5717	5717	5717	learnability:downward_monotone:left					Each runner was awarded a consolation prize.	Each runner who participated was awarded a consolation prize.						entailment
+5718	5718	5718	learnability:downward_monotone:left					Each runner who participated was awarded a consolation prize.	Each runner was awarded a consolation prize.						neutral
+5719	5719	5719	learnability:downward_monotone:left					Each cable needs to be securely connected.	Each HDMI cable needs to be securely connected.						entailment
+5720	5720	5720	learnability:downward_monotone:left					Each HDMI cable needs to be securely connected.	Each cable needs to be securely connected.						neutral
+5721	5721	5721	learnability:downward_monotone:left					Any person who knows how to do it should tell us.	Any engineer who knows how to do it should tell us.						entailment
+5722	5722	5722	learnability:downward_monotone:left					Any engineer who knows how to do it should tell us.	Any person who knows how to do it should tell us.						neutral
+5723	5723	5723	learnability:downward_monotone:left					Any problem that we face is something we can overcome eventually.	Any major problem that we face is something we can overcome eventually.						entailment
+5724	5724	5724	learnability:downward_monotone:left					Any major problem that we face is something we can overcome eventually.	Any problem that we face is something we can overcome eventually.						neutral
+5725	5725	5725	learnability:downward_monotone:left					No Swede would ever want to go there.	No Swede from Stockholm would ever want to go there.						entailment
+5726	5726	5726	learnability:downward_monotone:left					No Swede from Stockholm would ever want to go there.	No Swede would ever want to go there.						neutral
