@@ -5724,3 +5724,204 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 5724	5724	5724	learnability:downward_monotone:left					Any major problem that we face is something we can overcome eventually.	Any problem that we face is something we can overcome eventually.						neutral
 5725	5725	5725	learnability:downward_monotone:left					No Swede would ever want to go there.	No Swede from Stockholm would ever want to go there.						entailment
 5726	5726	5726	learnability:downward_monotone:left					No Swede from Stockholm would ever want to go there.	No Swede would ever want to go there.						neutral
+5727	5727	5727	learnability:downward_monotone:left					No salt shaker had any salt in it.	No salt shaker on the table had any salt in it.						entailment
+5728	5728	5728	learnability:downward_monotone:left					No salt shaker on the table had any salt in it.	No salt shaker had any salt in it.						neutral
+5729	5729	5729	learnability:downward_monotone:left					No ideas came to mind.	No useful ideas came to mind.						entailment
+5730	5730	5730	learnability:downward_monotone:left					No useful ideas came to mind.	No ideas came to mind.						neutral
+5731	5731	5731	learnability:downward_monotone:left					No bag going through here this morning contained any contraband.	No bag going through here this morning before dawn contained any contraband.						entailment
+5732	5732	5732	learnability:downward_monotone:left					No bag going through here this morning before dawn contained any contraband.	No bag going through here this morning contained any contraband.						neutral
+5733	5733	5733	learnability:downward_monotone:left					Few customers actually have the intention of stealing something.	Few customers who come late at night actually have the intention of stealing something.						entailment
+5734	5734	5734	learnability:downward_monotone:left					Few customers who come late at night actually have the intention of stealing something.	Few customers actually have the intention of stealing something.						neutral
+5735	5735	5735	learnability:downward_monotone:left					Few of the boxes will come with a prize.	Few of the boxes distributed this month will come with a prize.						entailment
+5736	5736	5736	learnability:downward_monotone:left					Few of the boxes distributed this month will come with a prize.	Few of the boxes will come with a prize.						neutral
+5737	5737	5737	learnability:downward_monotone:left					Few berries should have any bugs in them.	Few strawberries should have any bugs in them.						entailment
+5738	5738	5738	learnability:downward_monotone:left					Few strawberries should have any bugs in them.	Few berries should have any bugs in them.						neutral
+5739	5739	5739	learnability:downward_monotone:left					Few members would rather be at home than doing this.	Few young members would rather be at home than doing this.						entailment
+5740	5740	5740	learnability:downward_monotone:left					Few young members would rather be at home than doing this.	Few members would rather be at home than doing this.						neutral
+5741	5741	5741	learnability:downward_monotone:left					At most eleven girls are going to be at the meeting.	At most eleven girls that I know are going to be at the meeting.						entailment
+5742	5742	5742	learnability:downward_monotone:left					At most eleven girls that I know are going to be at the meeting.	At most eleven girls are going to be at the meeting.						neutral
+5743	5743	5743	learnability:downward_monotone:left					At most eight bills will be passed by this committee.	At most eight recently-proposed bills will be passed by this committee.						entailment
+5744	5744	5744	learnability:downward_monotone:left					At most eight recently-proposed bills will be passed by this committee.	At most eight bills will be passed by this committee.						neutral
+5745	5745	5745	learnability:downward_monotone:left					At most four meetings will be held in this building.	At most four meetings that I want to attend will be held in this building.						entailment
+5746	5746	5746	learnability:downward_monotone:left					At most four meetings that I want to attend will be held in this building.	At most four meetings will be held in this building.						neutral
+5747	5747	5747	learnability:downward_monotone:left					At most six instruments could be heard playing.	At most six brass instruments could be heard playing.						entailment
+5748	5748	5748	learnability:downward_monotone:left					At most six brass instruments could be heard playing.	At most six instruments could be heard playing.						neutral
+5749	5749	5749	learnability:downward_monotone:left					Fewer than twenty pupils are going to study for this exam.	Fewer than twenty diligent female pupils are going to study for this exam.						entailment
+5750	5750	5750	learnability:downward_monotone:left					Fewer than twenty diligent female pupils are going to study for this exam.	Fewer than twenty pupils are going to study for this exam.						neutral
+5751	5751	5751	learnability:downward_monotone:left					Fewer than ten stars could be seen that night.	Fewer than ten red stars could be seen that night.						entailment
+5752	5752	5752	learnability:downward_monotone:left					Fewer than ten red stars could be seen that night.	Fewer than ten stars could be seen that night.						neutral
+5753	5753	5753	learnability:downward_monotone:left					Fewer than three of the criminals will be caught by Friday.	Fewer than three of the violent criminals will be caught by Friday.						entailment
+5754	5754	5754	learnability:downward_monotone:left					Fewer than three of the violent criminals will be caught by Friday.	Fewer than three of the criminals will be caught by Friday.						neutral
+5755	5755	5755	learnability:downward_monotone:left					Fewer than two of the criminals will be caught by the end of the week.	Fewer than two of the arsonists will be caught by the end of the week.						entailment
+5756	5756	5756	learnability:downward_monotone:left					Fewer than two of the arsonists will be caught by the end of the week.	Fewer than two of the criminals will be caught by the end of the week.						neutral
+5757	5757	5757	learnability:downward_monotone:left					Every man worth inviting wears a golden watch.	Every Canadian man worth inviting wears a golden watch.						entailment
+5758	5758	5758	learnability:downward_monotone:left					Every Canadian man worth inviting wears a golden watch.	Every man worth inviting wears a golden watch.						neutral
+5759	5759	5759	learnability:downward_monotone:left					Every word that she spoke is echoing through my head.	Every long word that she spoke is echoing through my head.						entailment
+5760	5760	5760	learnability:downward_monotone:left					Every long word that she spoke is echoing through my head.	Every word that she spoke is echoing through my head.						neutral
+5761	5761	5761	learnability:downward_monotone:left					Every student I’ve taught has gone on to do great things.	Every student of mathematics I’ve taught has gone on to do great things.						entailment
+5762	5762	5762	learnability:downward_monotone:left					Every student of mathematics I’ve taught has gone on to do great things.	Every student I’ve taught has gone on to do great things.						neutral
+5763	5763	5763	learnability:downward_monotone:left					Every penny is made of those kinds of alloys.	Every copper penny is made of those kinds of alloys.						entailment
+5764	5764	5764	learnability:downward_monotone:left					Every copper penny is made of those kinds of alloys.	Every penny is made of those kinds of alloys.						neutral
+5765	5765	5765	learnability:downward_monotone:left					Every author knows tens of thousands of words.	Every author who writes romance novels knows tens of thousands of words.						entailment
+5766	5766	5766	learnability:downward_monotone:left					Every author who writes romance novels knows tens of thousands of words.	Every author knows tens of thousands of words.						neutral
+5767	5767	5767	learnability:downward_monotone:left					Each man watches baseball in the spring.	Each Japanese man watches baseball in the spring.						entailment
+5768	5768	5768	learnability:downward_monotone:left					Each Japanese man watches baseball in the spring.	Each man watches baseball in the spring.						neutral
+5769	5769	5769	learnability:downward_monotone:left					Each woman that I saw was wearing a sapphire necklace.	Each rich woman that I saw was wearing a sapphire necklace.						entailment
+5770	5770	5770	learnability:downward_monotone:left					Each rich woman that I saw was wearing a sapphire necklace.	Each woman that I saw was wearing a sapphire necklace.						neutral
+5771	5771	5771	learnability:downward_monotone:left					Each leader here started out as an intern.	Each female leader here started out as an intern.						entailment
+5772	5772	5772	learnability:downward_monotone:left					Each female leader here started out as an intern.	Each leader here started out as an intern.						neutral
+5773	5773	5773	learnability:downward_monotone:left					Each puppy was able to find an owner within the year.	Each Labrador puppy was able to find an owner within the year.						entailment
+5774	5774	5774	learnability:downward_monotone:left					Each Labrador puppy was able to find an owner within the year.	Each puppy was able to find an owner within the year.						neutral
+5775	5775	5775	learnability:downward_monotone:left					Each key on my keyboard was stuck and needed to be taken out.	Each arrow key on my keyboard was stuck and needed to be taken out.						entailment
+5776	5776	5776	learnability:downward_monotone:left					Each arrow key on my keyboard was stuck and needed to be taken out.	Each key on my keyboard was stuck and needed to be taken out.						neutral
+5777	5777	5777	learnability:downward_monotone:left					All robots need to be told to serve humanity.	All humanoid robots need to be told to serve humanity.						entailment
+5778	5778	5778	learnability:downward_monotone:left					All humanoid robots need to be told to serve humanity.	All robots need to be told to serve humanity.						neutral
+5779	5779	5779	learnability:downward_monotone:left					All leather will be substituted within the next decade.	All cow leather will be substituted within the next decade.						entailment
+5780	5780	5780	learnability:downward_monotone:left					All cow leather will be substituted within the next decade.	All leather will be substituted within the next decade.						neutral
+5781	5781	5781	learnability:downward_monotone:left					All books need to be able to be translated.	All hardcover books need to be able to be translated.						entailment
+5782	5782	5782	learnability:downward_monotone:left					All hardcover books need to be able to be translated.	All books need to be able to be translated.						neutral
+5783	5783	5783	learnability:downward_monotone:left					All books at the store were available in Italian.	All important books at the store were available in Italian.						entailment
+5784	5784	5784	learnability:downward_monotone:left					All important books at the store were available in Italian.	All books at the store were available in Italian.						neutral
+5785	5785	5785	learnability:downward_monotone:left					All great things start with bold ideas.	All very great things start with bold ideas.						entailment
+5786	5786	5786	learnability:downward_monotone:left					All very great things start with bold ideas.	All great things start with bold ideas.						neutral
+5787	5787	5787	learnability:downward_monotone:left					Any other person would be helpful at this point.	Any other person she can invite would be helpful at this point.						entailment
+5788	5788	5788	learnability:downward_monotone:left					Any other person she can invite would be helpful at this point.	Any other person would be helpful at this point.						neutral
+5789	5789	5789	learnability:downward_monotone:left					Any sick person should be able to receive this medicine.	Any cancer patient should be able to receive this medicine.						entailment
+5790	5790	5790	learnability:downward_monotone:left					Any cancer patient should be able to receive this medicine.	Any sick person should be able to receive this medicine.						neutral
+5791	5791	5791	learnability:downward_monotone:left					Any test should be passed by most of the class.	Any fair physics test should be passed by most of the class.						entailment
+5792	5792	5792	learnability:downward_monotone:left					Any fair physics test should be passed by most of the class.	Any test should be passed by most of the class.						neutral
+5793	5793	5793	learnability:downward_monotone:left					Any person who sees this demonstration will want to buy it.	Any customer who sees this demonstration will want to buy it.						entailment
+5794	5794	5794	learnability:downward_monotone:left					Any customer who sees this demonstration will want to buy it.	Any person who sees this demonstration will want to buy it.						neutral
+5795	5795	5795	learnability:downward_monotone:left					Any exit should be considered as an escape route.	Any visible exit should be considered as an escape route.						entailment
+5796	5796	5796	learnability:downward_monotone:left					Any visible exit should be considered as an escape route.	Any exit should be considered as an escape route.						neutral
+5797	5797	5797	learnability:downward_monotone:left					No mammal is able to swim that deep.	No donkey is able to swim that deep.						entailment
+5798	5798	5798	learnability:downward_monotone:left					No donkey is able to swim that deep.	No mammal is able to swim that deep.						neutral
+5799	5799	5799	learnability:downward_monotone:left					No passengers were harmed when the bus crashed.	No passenger who was wearing a seat belt were harmed when the bus crashed.						entailment
+5800	5800	5800	learnability:downward_monotone:left					No passenger who was wearing a seat belt were harmed when the bus crashed.	No passengers were harmed when the bus crashed.						neutral
+5801	5801	5801	learnability:downward_monotone:left					No body of water with this much salt is drinkable.	No lake with this much salt is drinkable.						entailment
+5802	5802	5802	learnability:downward_monotone:left					No lake with this much salt is drinkable.	No body of water with this much salt is drinkable.						neutral
+5803	5803	5803	learnability:downward_monotone:left					No short woman is able to fit in that.	No short woman who is standing nearby is able to fit in that.						entailment
+5804	5804	5804	learnability:downward_monotone:left					No short woman who is standing nearby is able to fit in that.	No short woman is able to fit in that.						neutral
+5805	5805	5805	learnability:downward_monotone:left					No dictionary was able to explain that word to us.	No dictionary on the Internet was able to explain that word to us.						entailment
+5806	5806	5806	learnability:downward_monotone:left					No dictionary on the Internet was able to explain that word to us.	No dictionary was able to explain that word to us.						neutral
+5807	5807	5807	learnability:downward_monotone:left					Few people know why that rock looks like that.	Few scientists know why that rock looks like that.						entailment
+5808	5808	5808	learnability:downward_monotone:left					Few scientists know why that rock looks like that.	Few people know why that rock looks like that.						neutral
+5809	5809	5809	learnability:downward_monotone:left					Few government agencies are worth their budgets.	Few federal government agencies are worth their budgets.						entailment
+5810	5810	5810	learnability:downward_monotone:left					Few federal government agencies are worth their budgets.	Few government agencies are worth their budgets.						neutral
+5811	5811	5811	learnability:downward_monotone:left					Few cats will be able to get at the food in here.	Few American shorthairs will be able to get at the food in here.						entailment
+5812	5812	5812	learnability:downward_monotone:left					Few American shorthairs will be able to get at the food in here.	Few cats will be able to get at the food in here.						neutral
+5813	5813	5813	learnability:downward_monotone:left					Few people he fought with lived to tell about it.	Few extremely tall people he fought with lived to tell about it.						entailment
+5814	5814	5814	learnability:downward_monotone:left					Few extremely tall people he fought with lived to tell about it.	Few people he fought with lived to tell about it.						neutral
+5815	5815	5815	learnability:downward_monotone:left					Few appliances at the expo were actually for sale.	Few appliances that looked useful at the expo were actually for sale.						entailment
+5816	5816	5816	learnability:downward_monotone:left					Few appliances that looked useful at the expo were actually for sale.	Few appliances at the expo were actually for sale.						neutral
+5817	5817	5817	learnability:downward_monotone:left					At most fifteen cans of this drink are sold from this stand every day.	At most fifteen aluminum cans of this drink are sold from this stand every day.						entailment
+5818	5818	5818	learnability:downward_monotone:left					At most fifteen aluminum cans of this drink are sold from this stand every day.	At most fifteen cans of this drink are sold from this stand every day.						neutral
+5819	5819	5819	learnability:downward_monotone:left					At most two people actually put in effort on this assignment.	At most two young sophomores actually put in effort on this assignment.						entailment
+5820	5820	5820	learnability:downward_monotone:left					At most two young sophomores actually put in effort on this assignment.	At most two people actually put in effort on this assignment.						neutral
+5821	5821	5821	learnability:downward_monotone:left					At most three employees are going to be considered for the promotion.	At most three older employees are going to be considered for the promotion.						entailment
+5822	5822	5822	learnability:downward_monotone:left					At most three older employees are going to be considered for the promotion.	At most three employees are going to be considered for the promotion.						neutral
+5823	5823	5823	learnability:downward_monotone:left					At most two days this week are free for me.	At most two school days this week are free for me.						entailment
+5824	5824	5824	learnability:downward_monotone:left					At most two school days this week are free for me.	At most two days this week are free for me.						neutral
+5825	5825	5825	learnability:downward_monotone:left					At most fifty people at this company do something useful.	At most fifty female employees at this company do something useful.						entailment
+5826	5826	5826	learnability:downward_monotone:left					At most fifty female employees at this company do something useful.	At most fifty people at this company do something useful.						neutral
+5827	5827	5827	learnability:downward_monotone:right					Not every customer is going to be able to afford this.	Not every customer is going to be able to afford this today.						entailment
+5828	5828	5828	learnability:downward_monotone:right					Not every customer is going to be able to afford this today.	Not every customer is going to be able to afford this.						neutral
+5829	5829	5829	learnability:downward_monotone:right					Not every child likes that kind of juice.	Not every child likes that kind of apple juice.						entailment
+5830	5830	5830	learnability:downward_monotone:right					Not every child likes that kind of apple juice.	Not every child likes that kind of juice.						neutral
+5831	5831	5831	learnability:downward_monotone:right					Not every student can beat the timer.	Not every student can beat the timer without practice.						entailment
+5832	5832	5832	learnability:downward_monotone:right					Not every student can beat the timer without practice.	Not every student can beat the timer.						neutral
+5833	5833	5833	learnability:downward_monotone:right					Not every tree loses its leaves.	Not every tree loses its leaves in the fall.						entailment
+5834	5834	5834	learnability:downward_monotone:right					Not every tree loses its leaves in the fall.	Not every tree loses its leaves.						neutral
+5835	5835	5835	learnability:downward_monotone:right					Not every baby can move across this floor.	Not every baby can walk across this floor.						entailment
+5836	5836	5836	learnability:downward_monotone:right					Not every baby can walk across this floor.	Not every baby can move across this floor.						neutral
+5837	5837	5837	learnability:downward_monotone:right					Not every student is going to pass the exam on Friday.	Not every student is going to pass the physics exam on Friday.						entailment
+5838	5838	5838	learnability:downward_monotone:right					Not every student is going to pass the physics exam on Friday.	Not every student is going to pass the exam on Friday.						neutral
+5839	5839	5839	learnability:downward_monotone:right					Not every sophomore was kissed by the woman.	Not every sophomore was kissed by the woman last month.						entailment
+5840	5840	5840	learnability:downward_monotone:right					Not every sophomore was kissed by the woman last month.	Not every sophomore was kissed by the woman.						neutral
+5841	5841	5841	learnability:downward_monotone:right					Not every mammal is going to survive without water.	Not every mammal is going to survive in the desert without water.						entailment
+5842	5842	5842	learnability:downward_monotone:right					Not every mammal is going to survive in the desert without water.	Not every mammal is going to survive without water.						neutral
+5843	5843	5843	learnability:downward_monotone:right					Not every pet is easy to train.	Not every pet is easy to train to fetch objects.						entailment
+5844	5844	5844	learnability:downward_monotone:right					Not every pet is easy to train to fetch objects.	Not every pet is easy to train.						neutral
+5845	5845	5845	learnability:downward_monotone:right					Not every dog can fetch.	Not every dog can fetch sticks.						entailment
+5846	5846	5846	learnability:downward_monotone:right					Not every dog can fetch sticks.	Not every dog can fetch.						neutral
+5847	5847	5847	learnability:downward_monotone:right					Not all South Americans can speak Greek.	Not all South Americans can speak Greek fluently.						entailment
+5848	5848	5848	learnability:downward_monotone:right					Not all South Americans can speak Greek fluently.	Not all South Americans can speak Greek.						neutral
+5849	5849	5849	learnability:downward_monotone:right					Not all my friends have the patience to try this.	Not all my friends have the patience to try this today.						entailment
+5850	5850	5850	learnability:downward_monotone:right					Not all my friends have the patience to try this today.	Not all my friends have the patience to try this.						neutral
+5851	5851	5851	learnability:downward_monotone:right					Not all problems can be solved with words.	Not all problems can be solved with gentle words.						entailment
+5852	5852	5852	learnability:downward_monotone:right					Not all problems can be solved with gentle words.	Not all problems can be solved with words.						neutral
+5853	5853	5853	learnability:downward_monotone:right					Not all books in this library are worth reading.	Not all books in this library are worth reading and reviewing.						entailment
+5854	5854	5854	learnability:downward_monotone:right					Not all books in this library are worth reading and reviewing.	Not all books in this library are worth reading.						neutral
+5855	5855	5855	learnability:downward_monotone:right					Not all the ideas I provided are going to be considered by a manager.	Not all the ideas I provided are going to be considered by a manager that can implement them.						entailment
+5856	5856	5856	learnability:downward_monotone:right					Not all the ideas I provided are going to be considered by a manager that can implement them.	Not all the ideas I provided are going to be considered by a manager.						neutral
+5857	5857	5857	learnability:downward_monotone:right					Not all the movies I downloaded were in a Romance language.	Not all the movies I downloaded were in Romanian.						entailment
+5858	5858	5858	learnability:downward_monotone:right					Not all the movies I downloaded were in Romanian.	Not all the movies I downloaded were in a Romance language.						neutral
+5859	5859	5859	learnability:downward_monotone:right					Not all the cars on the road were going quickly.	Not all the cars on the road were going north quickly.						entailment
+5860	5860	5860	learnability:downward_monotone:right					Not all the cars on the road were going north quickly.	Not all the cars on the road were going quickly.						neutral
+5861	5861	5861	learnability:downward_monotone:right					Not all passengers will want to travel in the snow.	Not all passengers will want to drive in the snow.						entailment
+5862	5862	5862	learnability:downward_monotone:right					Not all passengers will want to drive in the snow.	Not all passengers will want to travel in the snow.						neutral
+5863	5863	5863	learnability:downward_monotone:right					Not all students like the food at their schools.	Not all teachers like the burgers at their schools.						entailment
+5864	5864	5864	learnability:downward_monotone:right					Not all teachers like the burgers at their schools.	Not all students like the food at their schools.						neutral
+5865	5865	5865	learnability:downward_monotone:right					Not all locks have a key that can open them.	Not all locks have a brass key that can open them.						entailment
+5866	5866	5866	learnability:downward_monotone:right					Not all locks have a brass key that can open them.	Not all locks have a key that can open them.						neutral
+5867	5867	5867	learnability:downward_monotone:right					No animal that can swim loves hot bodies of water.	No animal that can swim loves hot lagoons.						entailment
+5868	5868	5868	learnability:downward_monotone:right					No animal that can swim loves hot lagoons.	No animal that can swim loves hot bodies of water.						neutral
+5869	5869	5869	learnability:downward_monotone:right					No person in jail is going to commit another crime.	No person in jail is going to commit another carjacking.						entailment
+5870	5870	5870	learnability:downward_monotone:right					No person in jail is going to commit another carjacking.	No person in jail is going to commit another crime.						neutral
+5871	5871	5871	learnability:downward_monotone:right					No person from Albania has ever eaten authentic Italian food.	No person from Albania has ever eaten authentic spaghetti.						entailment
+5872	5872	5872	learnability:downward_monotone:right					No person from Albania has ever eaten authentic spaghetti.	No person from Albania has ever eaten authentic Italian food.						neutral
+5873	5873	5873	learnability:downward_monotone:right					No girl can make it to class before the bell rings.	No girl can make it to class before the bell rings loudly.						entailment
+5874	5874	5874	learnability:downward_monotone:right					No girl can make it to class before the bell rings loudly.	No girl can make it to class before the bell rings.						neutral
+5875	5875	5875	learnability:downward_monotone:right					No pet cat is big enough to eat a dolphin.	No pet cat is big enough to eat a bottlenose dolphin.						entailment
+5876	5876	5876	learnability:downward_monotone:right					No pet cat is big enough to eat a bottlenose dolphin.	No pet cat is big enough to eat a dolphin.						neutral
+5877	5877	5877	learnability:downward_monotone:right					No astronomer is going to see a comet through a cloudy sky.	No astronomer is going to see a comet through a cloudy night sky.						entailment
+5878	5878	5878	learnability:downward_monotone:right					No astronomer is going to see a comet through a cloudy night sky.	No astronomer is going to see a comet through a cloudy sky.						neutral
+5879	5879	5879	learnability:downward_monotone:right					No tennis balls were left on the court.	No tennis balls were left on the court this afternoon.						entailment
+5880	5880	5880	learnability:downward_monotone:right					No tennis balls were left on the court this afternoon.	No tennis balls were left on the court.						neutral
+5881	5881	5881	learnability:downward_monotone:right					No customer moved through here without being greeted.	No customer walked through here without being greeted.						entailment
+5882	5882	5882	learnability:downward_monotone:right					No customer walked through here without being greeted.	No customer moved through here without being greeted.						neutral
+5883	5883	5883	learnability:downward_monotone:right					No bad news will ever be spoken here.	No bad news will ever be spoken by a tall woman here.						entailment
+5884	5884	5884	learnability:downward_monotone:right					No bad news will ever be spoken by a tall woman here.	No bad news will ever be spoken here.						neutral
+5885	5885	5885	learnability:downward_monotone:right					No hat is too ridiculous to wear to a library.	No hat is too ridiculous to wear to a university library.						entailment
+5886	5886	5886	learnability:downward_monotone:right					No hat is too ridiculous to wear to a university library.	No hat is too ridiculous to wear to a library.						neutral
+5887	5887	5887	learnability:downward_monotone:right					Few students can run the marathon.	Few students can run the marathon in under an hour.						entailment
+5888	5888	5888	learnability:downward_monotone:right					Few students can run the marathon in under an hour.	Few students can run the marathon.						neutral
+5889	5889	5889	learnability:downward_monotone:right					Few people would litter here.	Few people would litter here in the morning.						entailment
+5890	5890	5890	learnability:downward_monotone:right					Few people would litter here in the morning.	Few people would litter here.						neutral
+5891	5891	5891	learnability:downward_monotone:right					Few items at this store are worth giving to someone.	Few items at this store are worth giving to someone as a gift.						entailment
+5892	5892	5892	learnability:downward_monotone:right					Few items at this store are worth giving to someone as a gift.	Few items at this store are worth giving to someone.						neutral
+5893	5893	5893	learnability:downward_monotone:right					Few of these letters are going to be read.	Few of these letters are going to be read carefully.						entailment
+5894	5894	5894	learnability:downward_monotone:right					Few of these letters are going to be read carefully.	Few of these letters are going to be read.						neutral
+5895	5895	5895	learnability:downward_monotone:right					Few zoos are going to want to keep orangutans.	Few zoos are going to want to keep purple orangutans.						entailment
+5896	5896	5896	learnability:downward_monotone:right					Few zoos are going to want to keep purple orangutans.	Few zoos are going to want to keep orangutans.						neutral
+5897	5897	5897	learnability:downward_monotone:right					Few animals outside can be heard from inside a building.	Few animals outside can be heard from inside a supermarket.						entailment
+5898	5898	5898	learnability:downward_monotone:right					Few animals outside can be heard from inside a supermarket.	Few animals outside can be heard from inside a building.						neutral
+5899	5899	5899	learnability:downward_monotone:right					Few tourists visited this country from Asia.	Few tourists visited this country from Laos.						entailment
+5900	5900	5900	learnability:downward_monotone:right					Few tourists visited this country from Laos.	Few tourists visited this country from Asia.						neutral
+5901	5901	5901	learnability:downward_monotone:right					Few boats are made from wood in modern times.	Few boats are made from birch wood in modern times.						entailment
+5902	5902	5902	learnability:downward_monotone:right					Few boats are made from birch wood in modern times.	Few boats are made from wood in modern times.						neutral
+5903	5903	5903	learnability:downward_monotone:right					Few boats are made from wood in modern times.	Few boats are made from wooden planks in modern times.						entailment
+5904	5904	5904	learnability:downward_monotone:right					Few boats are made from wooden planks in modern times.	Few boats are made from wood in modern times.						neutral
+5905	5905	5905	learnability:downward_monotone:right					Few children will ask a teacher about factorials.	Few children will ask a middle school teacher about factorials.						entailment
+5906	5906	5906	learnability:downward_monotone:right					Few children will ask a middle school teacher about factorials.	Few children will ask a teacher about factorials.						neutral
+5907	5907	5907	learnability:downward_monotone:right					At most five pieces of candy will be given to each student.	At most five pieces of candy will be given to each freshman.						entailment
+5908	5908	5908	learnability:downward_monotone:right					At most five pieces of candy will be given to each freshman.	At most five pieces of candy will be given to each student.						neutral
+5909	5909	5909	learnability:downward_monotone:right					At most five trucks will drive on a Norwegian road today.	At most five trucks will drive on a Norwegian highway today.						entailment
+5910	5910	5910	learnability:downward_monotone:right					At most five trucks will drive on a Norwegian highway today.	At most five trucks will drive on a Norwegian road today.						neutral
+5911	5911	5911	learnability:downward_monotone:right					At most fifteen slices will be eaten.	At most fifteen slices will be eaten for lunch.						entailment
+5912	5912	5912	learnability:downward_monotone:right					At most fifteen slices will be eaten for lunch.	At most fifteen slices will be eaten.						neutral
+5913	5913	5913	learnability:downward_monotone:right					At most two people had considered being there at that time.	At most two people had considered standing there at that time.						entailment
+5914	5914	5914	learnability:downward_monotone:right					At most two people had considered standing there at that time.	At most two people had considered being there at that time.						neutral
+5915	5915	5915	learnability:downward_monotone:right					At most three candidates were able to attend the debate.	At most three candidates were able to attend the political debate.						entailment
+5916	5916	5916	learnability:downward_monotone:right					At most three candidates were able to attend the political debate.	At most three candidates were able to attend the debate.						neutral
+5917	5917	5917	learnability:downward_monotone:right					At most nine flights are going to leave this airport.	At most nine flights are going to leave this airport to go to Albany.						entailment
+5918	5918	5918	learnability:downward_monotone:right					At most nine flights are going to leave this airport to go to Albany.	At most nine flights are going to leave this airport.						neutral
+5919	5919	5919	learnability:downward_monotone:right					At most seven birds can see a mouse this small.	At most seven birds can observe a mouse this small.						entailment
+5920	5920	5920	learnability:downward_monotone:right					At most seven birds can observe a mouse this small.	At most seven birds can see a mouse this small.						neutral
+5921	5921	5921	learnability:downward_monotone:right					At most eighteen children touched the ball.	At most eighteen children kicked the ball.						entailment
+5922	5922	5922	learnability:downward_monotone:right					At most eighteen children kicked the ball.	At most eighteen children touched the ball.						neutral
+5923	5923	5923	learnability:downward_monotone:right					At most three people could move the boulder off the dirt.	At most three people could push the boulder off the dirt.						entailment
+5924	5924	5924	learnability:downward_monotone:right					At most three people could push the boulder off the dirt.	At most three people could move the boulder off the dirt.						neutral
+5925	5925	5925	learnability:downward_monotone:right					At most nine people researched a problem about mathematics.	At most nine people researched a problem about geometry.						entailment
+5926	5926	5926	learnability:downward_monotone:right					At most nine people researched a problem about geometry.	At most nine people researched a problem about mathematics.						neutral
+5927	5927	5927													
