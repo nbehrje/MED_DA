@@ -73,7 +73,7 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 72	72	72	paper:GLUE:Intersectivity:upward_monotone:conditionals					You know that some actions must be taken when grandma reacts with the sad emoji.	You know that some life changing actions must be taken when grandma reacts with the sad emoji.						neutral
 73	73	73	paper:GLUE:Intersectivity:downward_monotone:conditionals					You know that some life changing actions must be taken when grandma reacts with the sad emoji.	You know that some life-changing actions must be taken when grandma reacts with emoji.						neutral
 74	74	74	paper:GLUE:Intersectivity:downward_monotone:conditionals					You know that some life-changing actions must be taken when grandma reacts with emoji.	You know that some life changing actions must be taken when grandma reacts with the sad emoji.						entailment
-75	75	75	paper:GLUE:downward_monotone					I have never seen a hummingbird not flying.	I have never seen a hummingbird.					neutral	
+75	75	75	paper:GLUE:downward_monotone					I have never seen a hummingbird not flying.	I have never seen a hummingbird.						neutral
 76	76	76	paper:GLUE:downward_monotone					I have never seen a hummingbird.	I have never seen a hummingbird not flying.						entailment
 77	77	77	paper:GLUE:lexical_knowledge:downward_monotone					I have never seen a hummingbird not flying.	I have never seen a bird not flying.						neutral
 78	78	78	paper:GLUE:lexical_knowledge:downward_monotone					I have never seen a bird not flying.	I have never seen a hummingbird not flying.						entailment
@@ -5088,7 +5088,7 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 5087	5087	5087	paper:upward_monotone:lexical_knowledge:reverse					It's not true that Betty doesn't live in Berlin.	It's not true that Betty doesn't live in Germany.						entailment
 5088	5088	5088	paper:upward_monotone:lexical_knowledge:reverse					It's not true that Betty doesn't live in Germany.	It's not true that Betty doesn't live in Berlin.						neutral
 5089	5089	5089	paper:upward_monotone:lexical_knowledge:right					All dots are scarlet.	All dots are red.						entailment
-5090	5090	5090	paper:upward_monotone:lexical_knowledge:right					All dots are red.	All dots are scarlet.					neutral	
+5090	5090	5090	paper:upward_monotone:lexical_knowledge:right					All dots are red.	All dots are scarlet.						neutral
 5091	5091	5091	paper:upward_monotone:lexical_knowledge:right					Most dots are scarlet.	Most dots are red.						entailment
 5092	5092	5092	paper:upward_monotone:lexical_knowledge:right					Most dots are red.	Most dots are scarlet.						neutral
 5093	5093	5093	paper:upward_monotone:lexical_knowledge:right					Some dots are scarlet.	Some dots are red.						entailment
@@ -5924,4 +5924,3 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 5924	5924	5924	learnability:downward_monotone:right					At most three people could push the boulder off the dirt.	At most three people could move the boulder off the dirt.						neutral
 5925	5925	5925	learnability:downward_monotone:right					At most nine people researched a problem about mathematics.	At most nine people researched a problem about geometry.						entailment
 5926	5926	5926	learnability:downward_monotone:right					At most nine people researched a problem about geometry.	At most nine people researched a problem about mathematics.						neutral
-5927	5927	5927													
